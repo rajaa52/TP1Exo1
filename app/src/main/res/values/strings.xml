@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HelloToast</string>
+    <string name="btnToast">Toast</string>
+    <string name="btnCount">Count</string>
+</resources>
